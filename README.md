@@ -1,4 +1,4 @@
-# zepto-sales-analaysis
+# zepto SQL project
 Find the top 10 best-value products based on the highest discount percentage.
 
 Identify products with high MRP that are currently out of stock.
